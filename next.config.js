@@ -8,8 +8,6 @@ const nextConfig = {
       },
     ],
   },
-
-  // ✅ Vercel build fixes
   eslint: {
     ignoreDuringBuilds: true,
   },
