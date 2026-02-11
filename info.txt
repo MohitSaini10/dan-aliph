@@ -1,0 +1,11 @@
+admin email: admin@danaliph.com
+pswd: Admin@123
+
+Mongodb userid : uts.danaliph@gmail.com
+pswd : Mohit@123
+
+Email:uts.danaliph@gmail.com
+pswd : 
+
+cloudflare : uts.danaliph@gmail.com     
+pswd : Danaliph@123
