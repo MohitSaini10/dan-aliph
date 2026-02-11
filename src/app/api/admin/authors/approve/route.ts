@@ -3,6 +3,8 @@ import { cookies } from "next/headers";
 import jwt from "jsonwebtoken";
 import { dbConnect } from "@/lib/mongodb";
 import { User } from "@/models/User";
+export const dynamic = "force-dynamic";
+export const runtime = "nodejs";
 
 export async function PATCH(req: Request) {
   try {
